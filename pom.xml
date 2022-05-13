@@ -88,6 +88,12 @@
       <version>5.0.12</version>
       <scope>test</scope>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.springframework/spring-jdbc -->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-jdbc</artifactId>
+      <version>5.3.20</version>
+    </dependency>
 
     <dependency>
       <groupId>org.junit.jupiter</groupId>
